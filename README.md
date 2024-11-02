@@ -17,7 +17,7 @@ I'm a senior at the University of Massachusetts Boston, majoring in Economics an
 - **School Projects**: Gaining hands-on experience with datasets like [CPS](https://www.cps.io) and [FRED databases](https://fred.stlouisfed.org/) for my Quantitative Research Methods and Advanced Macroeconomics classes.
 
 ## 📫 Connect with Me!
-Feel free to connect with me on LinkedIn or explore some of my projects here on GitHub. I’m always open to collaborations and discussions on economics, machine learning, or education and advocacy. Let’s connect and learn together!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anuoluwapo-mokuolu/) or explore some of my projects here on GitHub. I’m always open to collaborations and discussions on economics, machine learning, or education and advocacy. Let’s connect and learn together!
 
 <!--
 **Anuoluwapo18/Anuoluwapo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
